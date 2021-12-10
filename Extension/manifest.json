@@ -1,0 +1,19 @@
+{
+  "name": "Game'her",
+  "description": "L'extension de l'association",
+  "version": "1.0",
+  "browser_action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "/images/Mono_G.png",
+      "24": "/images/Mono_G.png",
+      "32": "/images/Mono_G.png"
+    }
+  },
+  "icons": {
+    "16": "/images/Mono_G.png",
+    "32": "/images/Mono_G.png",
+    "128": "/images/Mono_G.png"
+  },
+  "manifest_version": 2
+}
